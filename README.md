@@ -1,10 +1,10 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *Tip Calculator*
 
 **TipCalculator** is a tip calculator application for iOS.
 
 Submitted by: **Ka Kin Chiu**
 
-Time spent: **6** hours spent in total
+Time spent: **15** hours spent in total
 
 ## User Stories
 
@@ -36,7 +36,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2015] [Ka Kin Chiu]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
