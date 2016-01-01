@@ -32,7 +32,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The most difficult part was the setting page. I have read through the instructions and have done extra research, but I still could not understand how to send the values from setting view controller to the view controller. However, I still have designed the setting page.
+
 
 ## License
 
