@@ -4,7 +4,7 @@
 
 Submitted by: **Ka Kin Chiu**
 
-Time spent: **15** hours spent in total
+Time spent: **25** hours spent in total
 
 ## User Stories
 
